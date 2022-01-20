@@ -1,4 +1,5 @@
 # MemHide
+Original idea-> https://www.xuenixiang.com/thread-2679-1-1.html  
 Process hacker find process ->  
 ![alt text](https://github.com/LazyAhora/MemHide/blob/main/PH%20find%20process.png)  
 Set fake PID ->  
